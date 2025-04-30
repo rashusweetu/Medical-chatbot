@@ -1,0 +1,11 @@
+# Ignore environments
+.env
+venv
+
+# Ignore Python build stuff
+__pycache__/
+*.pyc
+
+# Editor settings
+.vscode/
+.idea/
